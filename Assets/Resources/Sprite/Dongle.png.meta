@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 09632590be7ee3f4490f9c8f6f9f91bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1993151540102273128
+    second: Dongle_0
+  - first:
+      213: -4803478108752413330
+    second: Dongle_1
+  - first:
+      213: 1478181845710354085
+    second: Dongle_2
+  - first:
+      213: 2354790877731354858
+    second: Dongle_3
+  - first:
+      213: 3090117556734744850
+    second: Dongle_4
+  - first:
+      213: 5064083703507882871
+    second: Dongle_5
+  - first:
+      213: 2089844776002843940
+    second: Dongle_6
+  - first:
+      213: -7951774156694587510
+    second: Dongle_7
+  - first:
+      213: -1300079100127175388
+    second: Dongle_8
+  - first:
+      213: 907536235970368218
+    second: Dongle_9
+  - first:
+      213: 1832378850612335252
+    second: Dongle_10
+  - first:
+      213: 5103815569976834901
+    second: Dongle_11
+  - first:
+      213: 6945064630083105390
+    second: Dongle_12
+  - first:
+      213: 4523335259932227803
+    second: Dongle_13
+  - first:
+      213: 8541154915090899945
+    second: Dongle_14
+  - first:
+      213: 6756209546849715397
+    second: Dongle_15
+  - first:
+      213: 691681049157351540
+    second: Dongle_16
+  - first:
+      213: -5677364102612624512
+    second: Dongle_17
+  - first:
+      213: 5551232815365869223
+    second: Dongle_18
+  - first:
+      213: -6168178321770167375
+    second: Dongle_19
+  - first:
+      213: -7149803655547776077
+    second: Dongle_20
+  - first:
+      213: -3980106387984398580
+    second: Dongle_21
+  - first:
+      213: 8606088546056853721
+    second: Dongle_22
+  - first:
+      213: -1640166196659836712
+    second: Dongle_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dongle_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 396
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868915bf3c819ab10800000000000000
+      internalID: 1993151540102273128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dongle_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 396
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d72792c1e965db0800000000000000
+      internalID: -4803478108752413330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dongle_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 396
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63ff29e8e838410800000000000000
+      internalID: 1478181845710354085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dongle_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 396
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f18bb3d5eda020800000000000000
+      internalID: 2354790877731354858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dongle_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195f53bb8d42ea20800000000000000
+      internalID: 3090117556734744850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dongle_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 178
+        width: 233
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739e643c4d374640800000000000000
+      internalID: 5064083703507882871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dongle_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 53
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425fa5550ce900d10800000000000000
+      internalID: 2089844776002843940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
