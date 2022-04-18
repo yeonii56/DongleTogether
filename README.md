@@ -20,10 +20,18 @@
 - 제가 이 프로젝트로 배우고 경험해보고 싶었던 부분은 다음과 같습니다.  
   1️⃣ GC 를 줄이기.  
   2️⃣ 모바일 게임임을 인지하고 최적화에 신경쓰기.  
-  3️⃣ 디자인 패턴을 활용하여 코드의 성능과 설계성을 높이기.  
-      
-      
+  3️⃣ 디자인 패턴을 활용하여 코드의 성능과 설계성을 높이기.
+ <br></br>      
+ 
 > ### ❣ 게임 로직 설명
- [DongleTogether_포트폴리오.pdf](https://github.com/yeonii56/DongleTogether/files/8505497/DongleTogether_.pdf)
+  [DongleTogether_게임로직.pdf](https://github.com/yeonii56/DongleTogether/files/8505497/DongleTogether_.pdf)
 
+ - 동글을 터치로 이어서 터트림
+ - 타이머가 다 닳으면 게임 종료
+ - 동글을 터트리면 점수와 시간을 획득
+ - 많이 이어서 터트릴 수록 높은 점수 획득
+ - 섞기와 힌트 버튼을 활용하여 더 높은 점수를 획득할 수 있음  
+ <br></br>
+ 
+> ### ❣ 사용 기술과 일부 코드 설명  
 
