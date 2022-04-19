@@ -2,7 +2,7 @@
 ### 👉 Casual Puzle Game
 > 동글들을 선으로 이어서 가장 높은 점수를 얻는 안드로이드 모바일 게임입니다.
 
-<img src="https://user-images.githubusercontent.com/90385816/163764250-0600e793-acf8-45ed-b76a-5ed304469346.png" width="800 " height="450">
+![image](https://user-images.githubusercontent.com/90385816/164004216-3fcb0950-0139-404c-a613-dbcf6536fb5a.png)
 
 ---
 ## 👉 프로젝트 소개
@@ -13,7 +13,7 @@
 - 사용 엔진과 언어 : Unity, C#
 
 ## 👉 플레이 영상(유튜브)
-
+https://youtu.be/eKXq6QrJJ98
 
 
 ## 👉 포트폴리오
